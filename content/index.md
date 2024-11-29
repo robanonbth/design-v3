@@ -3,9 +3,10 @@ Title: Home
 Description: This is our index page.
 ---
 
-Home page
+Välkommen
 ==========================
+Robert heter jag. Detta är min portfolio.
 
-The source for this page is in `content/index.md`.
 
-This is a sample home page written in markdown with some frontmatter defined.
+![Me](%assets_url%/img/me.jpg)
+==========================
